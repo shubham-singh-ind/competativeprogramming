@@ -1,0 +1,18 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+#define I2I_MAP map<int,int>
+#define S2I_MAP map<string,int>
+#define S2S_MAP map<string,string>
+#define C2I_MAP map<char,int>
+#define C2C_MAP map<char,char>
+
+int main(){
+  int T;
+  cin>>T;
+  while(T--){
+  
+  }
+  return 0;
+}
