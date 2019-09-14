@@ -1,1 +1,1 @@
-# competativeprogramming
+# Competative Programming
