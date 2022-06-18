@@ -1,3 +1,8 @@
+/*
+##Learning##
+If we want to go from a->b in a circular way of n size array. Then use formula (b-x+n)%n.
+Here we are adding `n` so that negative value can become positive. Also, we are taking mod with `n` so that number will not go out of range of `n`.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 
