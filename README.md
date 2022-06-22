@@ -14,3 +14,4 @@ Topics covered till now through contest/problemset.
 - Circular array. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/6-circular-array.cpp
 - Prefix/Suffix array for range queries. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/7-range-query-prefix-array.cpp
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/8-range-query-prefix-array2.cpp 
+- Modular Binary Exponentiation. Fast power and Fast multiply https://www.codechef.com/viewsolution/67358925
