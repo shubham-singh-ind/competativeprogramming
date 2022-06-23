@@ -1,0 +1,9 @@
+{{Here we will be noting down observations/tricks to revise that can be used to revise. So that we can use those tricks in other problems.}}
+
+[==Odd numbers==]
+- Sum of first N odd numbers is N^2. [1+3+5 = 9 -> 3^2]
+- If we want to check whether we can represent a number N in terms of sum of K odd numbers, then 2 conditions should match.
+  1. Both N and K parity should be same. [ N%2 == K%2 ] -> You can do observation on few numbers.
+  2. N should be equal or more than sum of K odd numbers. [ N >= K^2 ]
+- Kth odd number is 2K-1
+- If N odd integers are added then result will be odd iff N is odd. [ 1+3+5 = 9, 1+3 = 4 ]
