@@ -17,7 +17,7 @@ void init() {
 	// fast IO
     ios_base::sync_with_stdio(false); cin.tie(NULL);
  	#ifndef ONLINE_JUDGE
-	    freopen("input.txt", "r", stdin);
+	    freopen("input.in", "r", stdin);
 	#endif	
 }
 
