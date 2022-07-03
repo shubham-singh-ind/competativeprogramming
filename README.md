@@ -16,3 +16,4 @@ Topics covered till now through contest/problemset.
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/8-range-query-prefix-array2.cpp 
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/9-range-query-suffix-array.cpp
 - Modular Binary Exponentiation. Fast power and Fast multiply https://www.codechef.com/viewsolution/67358925
+- Segmented sieve. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/segmentedSieve.cpp
