@@ -10,6 +10,7 @@ using namespace std;
 #define all(a) a.begin(),a.end()
 #define desc(a) greater<a>()
 #define pi pair<int,int>
+#define cout(a,b) cout<<a<<": "<<b<<endl;
 
 const int MOD = 1e9 + 7;
 
