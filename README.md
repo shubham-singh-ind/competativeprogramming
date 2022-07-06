@@ -10,6 +10,7 @@ Topics covered till now through contest/problemset.
 - Big Int subtraction, Subtraction of 2 strings. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/big-calculation.cpp
 - Big Mask : Counting number of 1s in binary. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/2-bitmaskcount.cpp
 - A.P. & G.P. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/4-try-to-apply-ap-gp-formula-for-sum.cpp
+  - Sum of square of n natural numbers: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/13-sum-of-n%5E2.cpp
 - Upper bound on sorted array. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/5-upper-bound-to-count-elements.cpp
 - Circular array. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/6-circular-array.cpp
 - Prefix/Suffix array for range queries. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/7-range-query-prefix-array.cpp
