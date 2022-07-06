@@ -10,34 +10,34 @@ Union: It merges two different subsets into a single subset, and the representat
 */
 
 void makeSet(vector<int> &parent, vector<int> &rank) {
-  int n = parent.size();
-  for(int i=0; i<n; i++) {
-    parent[i] = i;
-    rank[i] = 0;
-  }
+	int n = parent.size();
+	for(int i=0; i<n; i++) {
+	parent[i] = i;
+	rank[i] = 0;
+	}
 }
 
 // Finds parent/representative of a set
 int findParent(int node, vector<int> &parent) {
-		if(node == parent[node])
-			return node;
-		int par = findParent(parent[node], parent);
-		parent[node] = par; // path compression
-		return parent[node];
+	if(node == parent[node])
+		return node;
+	int par = findParent(parent[node], parent);
+	parent[node] = par; // path compression
+	return parent[node];
 }
 	
 // Combines a node into a set
 void union(int u, int v, vector<int> &parent, vector<int> &rank) {
-		u = findParent(u);
-		v = findParent(v);
-		if(rank[u] < rank[v]) {
-			parent[u] = v;
-		}
-    else if(rank[v] < rank[u]) {
-			parent[v] = u;
-		}
-    else {
-			parent[v] = u;
-			rank[u]++;
-		}
+	u = findParent(u);
+	v = findParent(v);
+	if(rank[u] < rank[v]) {
+		parent[u] = v;
+	}
+	else if(rank[v] < rank[u]) {
+		parent[v] = u;
+	}
+	else {
+		parent[v] = u;
+		rank[u]++;
+	}
 }
