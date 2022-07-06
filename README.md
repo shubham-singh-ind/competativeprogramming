@@ -18,3 +18,4 @@ Topics covered till now through contest/problemset.
 - Modular Binary Exponentiation. Fast power and Fast multiply https://www.codechef.com/viewsolution/67358925
 - Segmented sieve. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/segmentedSieve.cpp
 - Dijkstra algorithm : Single source shortest path : Greedy : https://github.com/shubham-singh-ind/competativeprogramming/blob/master/dijkstra-single-source-shortest-path-greedy.cpp
+- Disjoint set data structure: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/disjoint-set-data-structure.cpp
