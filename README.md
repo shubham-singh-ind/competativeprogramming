@@ -22,3 +22,6 @@ Topics covered till now through contest/problemset.
 - Dijkstra algorithm : Single source shortest path : Greedy : https://github.com/shubham-singh-ind/competativeprogramming/blob/master/dijkstra-single-source-shortest-path-greedy.cpp
 - Disjoint set data structure: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/disjoint-set-data-structure.cpp
 - Generating sub-sequences using bit-masking. https://github.com/shubham-singh-ind/competativeprogramming/tree/master/newlearningfromproblem
+- Segment Tree : Leetcode -> 307. Range Sum Query - Mutable
+  - Implementation: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/segment-tree.cpp
+  - Sample problem: https://leetcode.com/problems/range-sum-query-mutable
