@@ -25,4 +25,5 @@ Topics covered till now through contest/problemset.
 - Segment Tree : Leetcode -> 307. Range Sum Query - Mutable
   - Implementation: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/segment-tree.cpp
   - Sample problem: https://leetcode.com/problems/range-sum-query-mutable
- 
+- Clock concept: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/17-clock-or-time-concept.cpp
+  - Time difference using minutes
