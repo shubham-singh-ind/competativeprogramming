@@ -3,6 +3,10 @@
 Upper bound can be used on a sorted array. It gives iterator to element which is strictly greater than that element.
 We can subtract that iterator with first iterator in array to get counts.
 (ub - arr.begin())
+
+-To apply upper_bound on set/map data structure, use below syntax.
+	- set<int> s / map<int,int> s;
+	- s.upper_bound(element)
 */
 #include<bits/stdc++.h>
 using namespace std;
