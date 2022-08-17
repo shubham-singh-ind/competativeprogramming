@@ -4,6 +4,9 @@ Topics covered till now through contest/problemset.
 - gcd in O(log(n)) https://github.com/shubham-singh-ind/competativeprogramming/blob/master/gcd.cpp
   - GCD Related problems:
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/18-gcd-related.cpp
+- lcm
+  - LCM related problems:
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/20-lcm-related.cpp
 - factors of n in O(sqrt(n)) https://github.com/shubham-singh-ind/competativeprogramming/blob/master/generateFactors.cpp
 - Check prime in O(sqrt(n)) https://github.com/shubham-singh-ind/competativeprogramming/blob/master/isPrime.cpp
 - Sieve Of Eratosthenes in O(n*log(log(n))) https://github.com/shubham-singh-ind/competativeprogramming/blob/master/sieveOfEratosthenes.cpp
