@@ -36,3 +36,9 @@ Topics covered till now through contest/problemset.
 - Sliding Window: (Remove/Add elements into subarray based on requirement)
   - Related problems:
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/22-sliding-window-related.cpp
+- Binary search: (Apply binary search on monotonically increasing/decreasing function to get the maximum/minimum value required)
+  - If asked to find min or max value, first think if function asked is monotonically increasing/decreasing or not. If yes, then simply perform binary search.
+  - Related problems:
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/23-binary-search-related.cpp
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/24-binary-search-related.cpp
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/25-binary-search-related.cpp 
