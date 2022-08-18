@@ -33,3 +33,6 @@ Topics covered till now through contest/problemset.
   - Sample problem: https://leetcode.com/problems/range-sum-query-mutable
 - Clock concept: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/17-clock-or-time-concept.cpp
   - Time difference using minutes
+- Sliding Window: (Remove/Add elements into subarray based on requirement)
+  - Related problems:
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/22-sliding-window-related.cpp
