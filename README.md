@@ -44,3 +44,5 @@ Topics covered till now through contest/problemset.
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/23-binary-search-related.cpp
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/24-binary-search-related.cpp
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/25-binary-search-related.cpp 
+- Interesting Math Related Problems:
+  - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/28-interesting-math-related.cpp
