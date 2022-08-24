@@ -1,6 +1,6 @@
 # Competitive Programming
 
-Topics covered till now through contest/problemset.
+## Topics covered till now through contest/problemset.
 - gcd in O(log(n)) https://github.com/shubham-singh-ind/competativeprogramming/blob/master/gcd.cpp
   - GCD Related problems:
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/18-gcd-related.cpp
@@ -46,3 +46,12 @@ Topics covered till now through contest/problemset.
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/25-binary-search-related.cpp 
 - Interesting Math Related Problems:
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/28-interesting-math-related.cpp
+
+## Tips learned till now
+- Observation is the KEY. Try observing things from broader level. Don't be too limited to what problem statement says.
+- Try to re-modify problem statement as per your convinient. It will help approach problem in different way.
+- Try to think in terms of even/odd whenever required.
+- Try to express operations in terms of variables instead of numbers. For example: If problem operation is to subtract a number from array elements. Try doing in a-b way, instead of 2-3 or so. It will give general idea about operation.
+- If one approach is not working for sometime, Try to switch to different approach. Don't stuck on same approach for long time.
+- DO NOT Miss Edge-Cases. for N=0, N=1, N=n-1 etc. Check for integer overflow.
+- Step: Bruter Force -> Optimization (if needed)
