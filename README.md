@@ -17,6 +17,8 @@
 - A.P. & G.P. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/4-try-to-apply-ap-gp-formula-for-sum.cpp
   - Sum of square of n natural numbers: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/13-sum-of-n%5E2.cpp
   - Generating AP with minimum last term value: https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/19-AP-related.cpp
+  - Even odd: Mean/Average of N odd elements or N even elements are always whole number.
+    -Related problem: https://codeforces.com/contest/1634/submission/169996643
 - Upper bound on sorted array. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/5-upper-bound-to-count-elements.cpp
 - Circular array. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/6-circular-array.cpp
 - Prefix/Suffix array for range queries. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/7-range-query-prefix-array.cpp
