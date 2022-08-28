@@ -48,6 +48,7 @@
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/25-binary-search-related.cpp 
 - Interesting Math Related Problems:
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/28-interesting-math-related.cpp
+  - Topic: Mean/Average/AP => https://codeforces.com/problemset/problem/1634/C , https://codeforces.com/problemset/problem/1634/C
 
 ## Tips learned till now
 - Observation is the KEY. Try observing things from broader level. Don't be too limited to what problem statement says.
