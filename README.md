@@ -24,6 +24,9 @@
 - Prefix/Suffix array for range queries. https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/7-range-query-prefix-array.cpp
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/8-range-query-prefix-array2.cpp 
   - https://github.com/shubham-singh-ind/competativeprogramming/blob/master/newlearningfromproblem/9-range-query-suffix-array.cpp
+- 2D Prefix sum
+  - Tutorial: https://usaco.guide/silver/more-prefix-sums?lang=cpp#2d-prefix-sums
+  - Related problem: https://codeforces.com/contest/1722/problem/E
 - Modular Binary Exponentiation. Fast power and Fast multiply https://www.codechef.com/viewsolution/67358925
   - Modular Binary Exponentiation: https://codeforces.com/contest/742/submission/162980679
 - Mod related problems:
